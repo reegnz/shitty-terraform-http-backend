@@ -20,3 +20,7 @@ The part after `/terraform/state/` and `/terraform/lock/state` can be anything,
 I'm using a UUID.
 
 The server can be used with or without locks.
+
+## Docs
+
+* See [Terraform http backend](https://www.terraform.io/docs/language/settings/backends/http.html) on how to use.
